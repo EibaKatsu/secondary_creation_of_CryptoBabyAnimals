@@ -1,0 +1,8 @@
+echo "# secondary_creation_of_CryptoBabyAnimals" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/EibaKatsu/secondary_creation_of_CryptoBabyAnimals.git
+git push -u origin main
+
